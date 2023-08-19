@@ -1,2 +1,2 @@
 # ASAP-attention
-This paper is under review.
+This paper was submitted, and is under review.
